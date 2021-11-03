@@ -6,7 +6,7 @@
 #
 # -------------------------------------------------------------------------
 
-CODEMIRROR = https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.30.0
+CODEMIRROR = https://www.bootcdn.cn/codemirror/5.30.0
 
 PYTHON_BIN ?= python3
 CURRENT_DIR = ${CURDIR}
